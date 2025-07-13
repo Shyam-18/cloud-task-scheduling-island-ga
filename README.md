@@ -59,8 +59,8 @@ Island‑only
 
 
 **Contributors**
-       Name	                                           Role
-Kolisetty Shyam Nageshwar	              GA/MapReduce implementation, experiments
-Malicheti Aravind Reddy	                DAG generator, data analysis
-Soma Naga Sai Pranav	                  Visualization, documentation
-Dr. Gurusamy Jeyakumar	                Research guidance, paper review
+(Name	- Role)
+(Kolisetty Shyam Nageshwar - GA/MapReduce implementation, experiments)
+(Malicheti Aravind Reddy	- DAG generator, data analysis)
+(Soma Naga Sai Pranav - Visualization, documentation)
+(Dr. Gurusamy Jeyakumar - Research guidance, paper review)
